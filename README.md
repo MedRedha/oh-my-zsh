@@ -297,6 +297,8 @@ We're on the social media.
 
 We have [stickers, shirts, and coffee mugs available](https://shop.planetargon.com/collections/oh-my-zsh?utm_source=github) for you to show off your love of Oh My Zsh. Again, you will become the talk of the town!
 
+
+
 ## License
 
 Oh My Zsh is released under the [MIT license](LICENSE.txt).
